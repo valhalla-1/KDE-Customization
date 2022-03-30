@@ -1,0 +1,20 @@
+Description:
+Latte Layout with 2 floating docks and 1 panel. Top panel integrated with kpple menu, application title global menu. Sidebar with notification, system resource and mediaplayer, bootom dock include launchpad menu and folder view.
+
+Widget Requirements:
+• Kpple Menu
+• Launchpad Plasma
+• Window Title
+• Global Menu
+• Application Title
+• Latte Spacers
+• Latte Side Bar
+• Latte Separators
+• Better inline Clock
+• BigSur-Inline Battery
+• Netspeed Widget
+• Event calender
+• Media Player Control +
+• System Tray
+• Folder Views
+• Trash
